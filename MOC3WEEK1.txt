@@ -4,3 +4,9 @@ No.
 True
 The signs must be used in the course of trade.
 The lack of distinctiveness that is indicated in article 3(1)c may be cured by use and acquired distinctiveness.
+It is allowed to use one’s own name in commercial information 
+It is allowed to use a competitor’s trademark where it is necessary to indicate the intended purpose of a product or service.
+The use gives result to a likelihood of confusion.
+The use regards use of any sign which is identical with a protected trademark in relation to goods or services which are identical with those for which the trade mark is registered.
+False
+That a trademark shall be revoked if, in consequence of acts or inactivity of the proprietor, it has become the common name in the trade for a product or service in respect of which it is registered.
